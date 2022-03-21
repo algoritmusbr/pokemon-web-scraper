@@ -17,4 +17,4 @@ E para rodar o scrapy basta executar o seguinte comando:
 $ scrapy runspider poke_scrapy.py
 ```
 
-Siga nosso perfil no [Instagra](https://www.instagram.com/algoritmus_br/) para mais dicas.
+Siga nosso perfil no [Instagram](https://www.instagram.com/algoritmus_br/) para mais dicas como essa.
